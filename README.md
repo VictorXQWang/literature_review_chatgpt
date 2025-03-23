@@ -9,6 +9,7 @@
 #### Keywords: ChatGPT, Generative AI, LLMs, audit, financial reporting, tax, AIS, asset pricing, corporate finance
 
 ## Citation
+
 If you use this work, please cite the following paper:
 **Dong, Mengming Michael, Theophanis C. Stratopoulos, and Victor Xiaoqi Wang (2024).**  
 *"A scoping review of ChatGPT research in accounting and finance."*  
